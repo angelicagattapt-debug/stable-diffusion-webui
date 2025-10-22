@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="3000" viewBox="0 0 1000 1500">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .runner { fill:none; stroke:#6B5E55; stroke-width:28; stroke-linecap:round; stroke-linejoin:round; opacity:1; }
+      .name { font-family: 'Playfair Display', 'Georgia', serif; font-size:72px; fill:#6B5E55; text-anchor:middle; font-weight:600; }
+      .tag { font-family: 'Inter', sans-serif; font-size:30px; fill:#8C7F78; text-anchor:middle; letter-spacing:2px; }
+      .est { font-family: 'Inter', sans-serif; font-size:22px; fill:#6B5E55; text-anchor:middle; }
+    ]]></style>
+  </defs>
+  <g id="runner" transform="translate(0, -40)">
+    <path class="runner" d="M500,160 C540,120 600,110 640,150 C680,190 720,240 760,280" />
+    <circle cx="610" cy="150" r="18" fill="#6B5E55" />
+  </g>
+  <text class="name" x="500" y="420">Simply Running Club</text>
+  <text class="tag" x="500" y="490">run. connect. enjoy.</text>
+  <text class="est" x="500" y="540">Est. 2025</text>
+</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="2000" viewBox="0 0 1000 1000">
+  <defs>
+    <style type="text/css"><![CDATA[
+      .runner { fill:none; stroke:#6B5E55; stroke-width:32; stroke-linecap:round; stroke-linejoin:round; }
+      .src { font-family: 'Montserrat', 'Helvetica Neue', sans-serif; font-weight:600; font-size:220px; fill:#6B5E55; letter-spacing:6px; text-anchor:middle; }
+      .sub { font-family: 'Inter', sans-serif; font-size:36px; fill:#6B5E55; text-anchor:middle; letter-spacing:2px; }
+    ]]></style>
+  </defs>
+  <g id="runner" transform="translate(0, -40)">
+    <path class="runner" d="M350,200 C380,150 460,140 500,180 C540,220 580,260 620,300 C650,330 700,360 740,380" />
+    <circle cx="500" cy="190" r="20" fill="#6B5E55" />
+  </g>
+  <text class="src" x="500" y="520">SRC</text>
+  <text class="sub" x="500" y="600">Simply Running Club</text>
+</svg>
